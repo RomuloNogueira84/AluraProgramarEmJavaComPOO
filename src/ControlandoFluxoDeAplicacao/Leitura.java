@@ -16,5 +16,9 @@ public class Leitura {
 
         System.out.println(" Diga sua nota para o filme favorito: ");
         double avaliacao = leitura.nextDouble();
+
+        System.out.println(filmeFavorito);
+        System.out.println(anoDeLancamento);
+        System.out.println(avaliacao);
     }
 }
