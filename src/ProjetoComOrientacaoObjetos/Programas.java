@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Programas {
+    public String getPopularidade;
     String nome;
     int anoDeLancamento;
     boolean orientadoAoObjeto;
@@ -11,10 +12,14 @@ public class Programas {
     List<String> paradigmasSecundarios = new ArrayList<>();
     boolean tipificada;
     String sistemaDeTipos;
-    String popularidade;
+   private String popularidade;
     String facilidadeDeAprendizagem;
     boolean compiladaOuInterpretada;
     String performance;
+
+    String getPopularidade() {
+        return popularidade;
+    }
 
     void exibePrograma() {
         System.out.println("Nome: " + nome);
@@ -56,5 +61,24 @@ public class Programas {
             }
         }
     }
+    void mediaPopular(String popularidade){
+        if(popularidade.equals("Alta")){
+            System.out.println("A popularidade do programa é alta.");
+        }else if(popularidade.equals("Média")){
+            System.out.println("A popularidade do programa é média.");
+        }else{
+            System.out.println("A popularidade do programa é baixa.");
+        }
+        if(popularidade.equals("Alta")){
+            System.out.println("A popularidade do programa é alta.");
+        }else if(popularidade.equals("Média")){
+            System.out.println("A popularidade do programa é média.");
+        }else{
+            System.out.println("A popularidade do programa é baixa.");
+        }
+
+    }
 }
+
+
 
