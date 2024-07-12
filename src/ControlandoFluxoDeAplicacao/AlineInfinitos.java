@@ -1,4 +1,5 @@
 package ControlandoFluxoDeAplicacao;
+//Codigo criado em estudo de Romulo Nogueira de Souza na Alura
 //Questão: Infinitos 1 - Alice estava praticando seus
 // conhecimentos sobre a estrutura de repetição while e
 // teve a ideia de fazer um programa que apresentasse os
