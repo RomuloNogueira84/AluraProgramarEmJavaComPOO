@@ -1,2 +1,8 @@
-package ManipulandoObjetos;public class Venda {
+package ManipulandoObjetos;
+
+public class Venda {
+    String produto;
+    int quantidade;
+    double valorUnitario;
+    double valorTotal;
 }
