@@ -13,6 +13,12 @@ public class Principal {
         c1.transferir(50, c2);
         System.out.println(c1.getSaldo());
         System.out.println(c2.getSaldo());
+        System.out.println("Finalizado com sucesso!");
+        System.out.println("Finalizado com sucesso! E abaixo tem um explicação de fácil compreensão:");
+        System.out.println("Saldo: É o dinheiro que temos no cofrinho.💰");
+        System.out.println("Sacar: É tirar dinheiro do cofrinho.💵");
+        System.out.println("Depositar: É colocar dinheiro no cofrinho.💰");
+        System.out.println("Transferir: É tirar dinheiro do seu cofrinho e colocar no cofrinho do seu amigo.💵");
     }
     /* Classe Principal
        Criando Contas:
