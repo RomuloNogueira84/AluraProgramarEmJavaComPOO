@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b30c4e39-7984-4179-884e-683a610fb070" name="Changes" comment="" />
+    <list default="true" id="b30c4e39-7984-4179-884e-683a610fb070" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,52 +33,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AlineInfinitos.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Casting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Comentariosunicoemultiplo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConcatecaoStringInteiros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Condicional.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversaoDeTemperatura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Desafio.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Desafio1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Estudos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploScanner2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExercicioScanner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JogoAdivinhacaoFixacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JogoDaAdvinhacaoFixacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JogoDeAdivinhacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leitura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operadores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Perfil.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeiraClasse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Soma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringseTextblocks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Subtração.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchCase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.While.executor&quot;: &quot;Run&quot;,
-    &quot;Application.primeiroprograma.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Estudos Java/AluraJava&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AlineInfinitos.executor": "Debug",
+    "Application.App.executor": "Run",
+    "Application.Casting.executor": "Run",
+    "Application.Comentariosunicoemultiplo.executor": "Run",
+    "Application.ConcatecaoStringInteiros.executor": "Run",
+    "Application.Condicional.executor": "Run",
+    "Application.ConversaoDeTemperatura.executor": "Run",
+    "Application.Desafio.executor": "Run",
+    "Application.Desafio1.executor": "Run",
+    "Application.Estudos.executor": "Run",
+    "Application.ExemploScanner2.executor": "Run",
+    "Application.ExercicioScanner.executor": "Run",
+    "Application.JogoAdivinhacaoFixacao.executor": "Run",
+    "Application.JogoDaAdvinhacaoFixacao.executor": "Run",
+    "Application.JogoDeAdivinhacao.executor": "Run",
+    "Application.Leitura.executor": "Run",
+    "Application.Loop.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Operadores.executor": "Run",
+    "Application.Perfil.executor": "Run",
+    "Application.PrimeiraClasse.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.Soma.executor": "Run",
+    "Application.StringseTextblocks.executor": "Run",
+    "Application.Subtração.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.While.executor": "Run",
+    "Application.primeiroprograma.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "git-widget-placeholder": "Merging main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Estudos Java/AluraJava",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Principal">
     <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConsolidandoConhecimento.Desafio" />
@@ -179,7 +181,9 @@
       <workItem from="1721142078087" duration="1978000" />
       <workItem from="1721162144528" duration="745000" />
       <workItem from="1721165882543" duration="199000" />
-      <workItem from="1721166095959" duration="34000" />
+      <workItem from="1721166095959" duration="1016000" />
+      <workItem from="1721167132121" duration="245000" />
+      <workItem from="1721167394791" duration="20000" />
     </task>
     <servers />
   </component>
