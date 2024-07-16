@@ -6,6 +6,46 @@
   <component name="ChangeListManager">
     <list default="true" id="b30c4e39-7984-4179-884e-683a610fb070" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClasseEObjetoPOO/AppAniversario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ClasseEObjetoPOO/AppAniversario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClasseEObjetoPOO/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ClasseEObjetoPOO/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConsolidandoConhecimento/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ConsolidandoConhecimento/Desafio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlandoFluxoDeAplicacao/AlineInfinitos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ControlandoFluxoDeAplicacao/AlineInfinitos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlandoFluxoDeAplicacao/Condicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ControlandoFluxoDeAplicacao/Condicional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlandoFluxoDeAplicacao/Desafio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ControlandoFluxoDeAplicacao/Desafio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlandoFluxoDeAplicacao/Desafio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ControlandoFluxoDeAplicacao/Desafio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlandoFluxoDeAplicacao/ExemploScanner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ControlandoFluxoDeAplicacao/ExemploScanner2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlandoFluxoDeAplicacao/ExercicioScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ControlandoFluxoDeAplicacao/ExercicioScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlandoFluxoDeAplicacao/JogoAdivinhacaoFixacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ControlandoFluxoDeAplicacao/JogoAdivinhacaoFixacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlandoFluxoDeAplicacao/JogoDeAdivinhacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ControlandoFluxoDeAplicacao/JogoDeAdivinhacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlandoFluxoDeAplicacao/Leitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ControlandoFluxoDeAplicacao/Leitura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlandoFluxoDeAplicacao/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ControlandoFluxoDeAplicacao/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlandoFluxoDeAplicacao/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ControlandoFluxoDeAplicacao/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlandoFluxoDeAplicacao/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ControlandoFluxoDeAplicacao/While.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DefinicaoMetodos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/DefinicaoMetodos/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioHoraDaPratica/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/DesafioHoraDaPratica/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioHoraDaPratica/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/DesafioHoraDaPratica/Musica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioHoraDaPratica/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/DesafioHoraDaPratica/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManipulandoObjetos/ManipulandoObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ManipulandoObjetos/ManipulandoObjetos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManipulandoObjetos/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ManipulandoObjetos/Venda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModificadoresDeAcesso/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ModificadoresDeAcesso/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModificadoresDeAcesso/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ModificadoresDeAcesso/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetoComOrientacaoObjetos/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ProjetoComOrientacaoObjetos/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjetoComOrientacaoObjetos/Programas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ProjetoComOrientacaoObjetos/Programas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScreenMatch/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ScreenMatch/modelo/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScreenMatch/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/catalogodefilmes/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/catalogodefilmes/Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/catalogodefilmes/Comentariosunicoemultiplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/catalogodefilmes/Comentariosunicoemultiplo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/catalogodefilmes/ConcatecaoStringInteiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/catalogodefilmes/ConcatecaoStringInteiros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/catalogodefilmes/ConversaoDeTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/catalogodefilmes/ConversaoDeTemperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/catalogodefilmes/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/catalogodefilmes/Desafio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/catalogodefilmes/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/catalogodefilmes/Operadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/catalogodefilmes/StringseTextblocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/catalogodefilmes/StringseTextblocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primeiraaplicacao/Estudos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/primeiraaplicacao/Estudos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primeiraaplicacao/Perfil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/primeiraaplicacao/Perfil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primeiraaplicacao/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/primeiraaplicacao/PrimeiraClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primeiraaplicacao/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/primeiraaplicacao/Soma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primeiraaplicacao/Subtração.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/primeiraaplicacao/Subtração.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primeiraaplicacao/primeiroprograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/primeiraaplicacao/primeiroprograma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +60,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -54,9 +94,11 @@
     "Application.Leitura.executor": "Run",
     "Application.Loop.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ModificadoresDeAcesso.Principal.executor": "Run",
     "Application.Operadores.executor": "Run",
     "Application.Perfil.executor": "Run",
     "Application.PrimeiraClasse.executor": "Run",
+    "Application.Principal (1).executor": "Run",
     "Application.Principal.executor": "Run",
     "Application.Soma.executor": "Run",
     "Application.StringseTextblocks.executor": "Run",
@@ -66,7 +108,7 @@
     "Application.primeiroprograma.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowRun.ShowToolbar": "false",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Estudos Java/AluraJava",
@@ -79,7 +121,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="br.com.alura.ScreenMatch.Principal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Principal (1)">
     <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConsolidandoConhecimento.Desafio" />
       <module name="AluraJava" />
@@ -106,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JogoAdivinhacaoFixacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlandoFluxoDeAplicacao.JogoAdivinhacaoFixacao" />
+    <configuration name="ModificadoresDeAcesso.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModificadoresDeAcesso.Principal" />
       <module name="AluraJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ControlandoFluxoDeAplicacao.*" />
+          <option name="PATTERN" value="ModificadoresDeAcesso.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,15 +167,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JogoDeAdivinhacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlandoFluxoDeAplicacao.JogoDeAdivinhacao" />
+    <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
       <module name="AluraJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ControlandoFluxoDeAplicacao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -147,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal (1)" />
+        <item itemvalue="Application.ModificadoresDeAcesso.Principal" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Desafio" />
         <item itemvalue="Application.Desafio1" />
-        <item itemvalue="Application.JogoDeAdivinhacao" />
-        <item itemvalue="Application.JogoAdivinhacaoFixacao" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +226,7 @@
       <workItem from="1721166095959" duration="1016000" />
       <workItem from="1721167132121" duration="245000" />
       <workItem from="1721167394791" duration="20000" />
+      <workItem from="1721167444378" duration="3977000" />
     </task>
     <servers />
   </component>
