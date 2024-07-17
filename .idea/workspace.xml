@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b30c4e39-7984-4179-884e-683a610fb070" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Encapsulamento/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ClasseEObjetoPOO/AppAniversario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ClasseEObjetoPOO/AppAniversario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ClasseEObjetoPOO/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ClasseEObjetoPOO/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ConsolidandoConhecimento/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ConsolidandoConhecimento/Desafio.java" afterDir="false" />
@@ -126,26 +128,13 @@
       <recent name="br.com.alura.ScreenMatch.Principal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal (1)">
+  <component name="RunManager" selected="Application.br.com.alura.Encapsulamento.Principal">
     <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConsolidandoConhecimento.Desafio" />
       <module name="AluraJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ConsolidandoConhecimento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Desafio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlandoFluxoDeAplicacao.Desafio1" />
-      <module name="AluraJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ControlandoFluxoDeAplicacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,13 +175,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="br.com.alura.Encapsulamento.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.Encapsulamento.Principal" />
+      <module name="AluraJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.Encapsulamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.br.com.alura.Encapsulamento.Principal" />
         <item itemvalue="Application.Principal (1)" />
         <item itemvalue="Application.ModificadoresDeAcesso.Principal" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Desafio" />
-        <item itemvalue="Application.Desafio1" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +227,7 @@
       <workItem from="1721166095959" duration="1016000" />
       <workItem from="1721167132121" duration="245000" />
       <workItem from="1721167394791" duration="20000" />
-      <workItem from="1721167444378" duration="4553000" />
+      <workItem from="1721167444378" duration="7567000" />
     </task>
     <servers />
   </component>
