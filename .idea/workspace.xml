@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b30c4e39-7984-4179-884e-683a610fb070" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/DesafioEncapsulamento/ContaBancaria/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/DesafioEncapsulamento/ContaBancaria/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/DesafioEncapsulamento/IdadePessoa/IdadePessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/DesafioEncapsulamento/IdadePessoa/Principal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/br/com/alura/Encapsulamento/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Encapsulamento/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ClasseEObjetoPOO/AppAniversario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ClasseEObjetoPOO/AppAniversario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ClasseEObjetoPOO/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ClasseEObjetoPOO/Pessoa.java" afterDir="false" />
@@ -106,8 +112,12 @@
     "Application.Subtração.executor": "Run",
     "Application.SwitchCase.executor": "Run",
     "Application.While.executor": "Run",
+    "Application.br.com.alura.DesafioEncapsulamento.ContaBancaria.Principal.executor": "Run",
+    "Application.br.com.alura.DesafioEncapsulamento.IdadePessoa.Principal.executor": "Run",
+    "Application.br.com.alura.Encapsulamento.Principal.executor": "Run",
     "Application.primeiroprograma.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ToolWindowRun.ShowToolbar": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -128,20 +138,7 @@
       <recent name="br.com.alura.ScreenMatch.Principal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.br.com.alura.Encapsulamento.Principal">
-    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConsolidandoConhecimento.Desafio" />
-      <module name="AluraJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ConsolidandoConhecimento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.br.com.alura.DesafioEncapsulamento.IdadePessoa.Principal">
     <configuration name="ModificadoresDeAcesso.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ModificadoresDeAcesso.Principal" />
       <module name="AluraJava" />
@@ -162,12 +159,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ScreenMatch.Principal" />
+    <configuration name="br.com.alura.DesafioEncapsulamento.ContaBancaria.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.DesafioEncapsulamento.ContaBancaria.Principal" />
       <module name="AluraJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ScreenMatch.*" />
+          <option name="PATTERN" value="br.com.alura.DesafioEncapsulamento.ContaBancaria.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.alura.DesafioEncapsulamento.IdadePessoa.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.DesafioEncapsulamento.IdadePessoa.Principal" />
+      <module name="AluraJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.DesafioEncapsulamento.IdadePessoa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.br.com.alura.DesafioEncapsulamento.IdadePessoa.Principal" />
+        <item itemvalue="Application.br.com.alura.DesafioEncapsulamento.ContaBancaria.Principal" />
         <item itemvalue="Application.br.com.alura.Encapsulamento.Principal" />
         <item itemvalue="Application.Principal (1)" />
         <item itemvalue="Application.ModificadoresDeAcesso.Principal" />
-        <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.Desafio" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +237,8 @@
       <workItem from="1721166095959" duration="1016000" />
       <workItem from="1721167132121" duration="245000" />
       <workItem from="1721167394791" duration="20000" />
-      <workItem from="1721167444378" duration="7567000" />
+      <workItem from="1721167444378" duration="10318000" />
+      <workItem from="1721217447515" duration="1731000" />
     </task>
     <servers />
   </component>
